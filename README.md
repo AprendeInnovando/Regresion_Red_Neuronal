@@ -93,14 +93,6 @@ conda create -n myenv python=3.6
 ```
 
 
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
 ## Construido con 🛠️
 
 _Herramientas utilizadas en el proyecto:_
