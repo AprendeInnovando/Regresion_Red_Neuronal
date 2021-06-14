@@ -15,7 +15,7 @@ _Ejemplos paso a paso de instalación de las librerías necesarias en Python:_
 
 #### Seaborn 📈
 
-_Si queremos instalarla con pip _
+_Si queremos instalarla con pip_
 
 ```
 pip install seaborn
@@ -29,7 +29,7 @@ conda install seaborn
 
 #### Matplotlib 📊
 
-_Si queremos instalarla con pip _
+_Si queremos instalarla con pip_
 
 ```
 python -m pip install -U matplotlib
@@ -43,7 +43,7 @@ conda install matplotlib
 
 #### Pandas 📃
 
-_Si queremos instalarla con pip _
+_Si queremos instalarla con pip_
 
 ```
 pip install pandas
@@ -57,7 +57,7 @@ conda install pandas
 
 #### Tensorflow 🧠
 
-_Si queremos instalarla con pip _
+_Si queremos instalarla con pip_
 
 ```
 pip install --upgrade tensorflow
